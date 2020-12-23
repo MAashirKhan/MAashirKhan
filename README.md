@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Aashir Khan</h1>
 <h3 align="center">A Passionate Frontend Developer from Pakistan</h3>
 
-- 🔭 I’m currently working on [Eduvation (School Management System)](https://github.com/AashirKhan21/EduvationSMS)
+- 🔭 I’m currently working on [Inventory Master (IMS)](https://github.com/AashirKhan21/InventoryMaster)
 
 - 🌱 I’m currently learning **Different Frameworks, willing to learn new languages and skills.**
 
