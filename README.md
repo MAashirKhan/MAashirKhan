@@ -2,7 +2,7 @@
 <hr/>
 <h3 align="center">A Passionate Frontend Developer from Pakistan</h3>
 
-- 🔭 I’m currently working on [Inventory Master (Inventory Management System)](https://github.com/AashirKhan21/InventoryMaster)
+- 🔭 I’m currently working on [Inventory Master (Inventory Management System)](https://github.com/AashirKhan21/IMS-Setup)
 
 - 🌱 I’m currently learning **Different Frameworks, willing to learn new languages and skills.**
 
