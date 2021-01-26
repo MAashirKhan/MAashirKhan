@@ -13,7 +13,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/aashirkhan21" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="aashirkhan21" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/muhammadaashir" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="muhammadaashir" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/muhammad-aashir-830668196/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="muhammadaashir" height="30" width="40" /></a>
 <a href="https://fb.com/aashirkhan21" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="aashirkhan21" height="30" width="40" /></a>
 <a href="https://instagram.com/aashir._.khan21" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="aashir._.khan21" height="30" width="40" /></a>
 </p>
