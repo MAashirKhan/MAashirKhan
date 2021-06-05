@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muhammad Aashir Khan</h1>
 <hr/>
-<h3 align="center">A Passionate Frontend Developer from Pakistan</h3>
+<h3 align="center">A Passionate MERN Stack Developer from Pakistan</h3>
 
 - 🔭 I’m currently working on [Inventory Master (Inventory Management System)](https://github.com/AashirKhan21/IMS-Setup)
 
